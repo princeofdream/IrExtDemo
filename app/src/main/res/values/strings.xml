@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IrExtDemo</string>
+    <string name="btn_get_ir_stat">Get IR Stat</string>
+</resources>
